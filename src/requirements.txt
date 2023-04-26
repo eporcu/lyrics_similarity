@@ -1,0 +1,9 @@
+
+pandas
+matplotlib
+scikit-learn
+scipy
+numpy
+networkx
+netrd
+notebook
